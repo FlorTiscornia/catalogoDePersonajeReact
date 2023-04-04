@@ -1,0 +1,11 @@
+.basic-btn{
+    width: 10%;
+    height: 50px;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: purple;
+    color: white;
+    border:none;
+    font-family: Courier;
+
+}
